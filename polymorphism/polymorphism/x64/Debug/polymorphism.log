@@ -1,0 +1,6 @@
+﻿  maincpp.cpp
+  workerManager.cpp
+D:\c语言\polymorphism\polymorphism\workerManager.cpp(306,4): warning C4102: “case1”: 未引用的标签
+D:\c语言\polymorphism\polymorphism\workerManager.cpp(309,4): warning C4102: “case2”: 未引用的标签
+  正在生成代码...
+  polymorphism.vcxproj -> D:\c语言\polymorphism\x64\Debug\polymorphism.exe
